@@ -8,8 +8,8 @@
 #endif
 
 #ifdef __APPLE__
-#include <editline/readline.h>
-#include <editline/add_history.h>
+#include <readline/readline.h>
+#include <readline/history.h>
 #endif
 
 
